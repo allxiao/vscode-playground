@@ -466,6 +466,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@vscode/prompt-tsx@npm:^0.3.0-alpha.22":
+  version: 0.3.0-alpha.22
+  resolution: "@vscode/prompt-tsx@npm:0.3.0-alpha.22"
+  checksum: 10c0/07385d1a9c338cc150f0fdc0d507e583d29c79f1579dcfcd04d4fce6d1df4696ecfedae7f0a6887a8a88194a850c4928d57a3ad095fb0f1f8b4861208ba38c9e
+  languageName: node
+  linkType: hard
+
 "@vscode/test-cli@npm:^0.0.10":
   version: 0.0.10
   resolution: "@vscode/test-cli@npm:0.0.10"
@@ -3358,6 +3365,7 @@ __metadata:
     "@types/vscode": "npm:^1.98.0"
     "@typescript-eslint/eslint-plugin": "npm:^8.25.0"
     "@typescript-eslint/parser": "npm:^8.25.0"
+    "@vscode/prompt-tsx": "npm:^0.3.0-alpha.22"
     "@vscode/test-cli": "npm:^0.0.10"
     "@vscode/test-electron": "npm:^2.4.1"
     eslint: "npm:^9.21.0"
